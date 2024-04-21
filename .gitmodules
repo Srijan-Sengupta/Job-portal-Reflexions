@@ -1,0 +1,6 @@
+[submodule "frontend"]
+	path = frontend
+	url = git@github.com:SouhardyaR/Mployer2.git
+[submodule "backend"]
+	path = backend
+	url = git@github.com:Srijan-Sengupta/Job-Portal-Backend.git
